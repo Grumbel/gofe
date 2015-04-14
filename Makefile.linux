@@ -1,0 +1,3 @@
+tfmx-fe : tfmx-fe.o
+	gcc -o tfmx-fe tfmx-fe.o -lgtk -lglib -lgdk -lX11 -lXext -lm -Wall
+tfmx-fe.o : tfmx-fe.c

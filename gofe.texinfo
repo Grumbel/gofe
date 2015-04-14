@@ -1,0 +1,67 @@
+\input texinfo   @c -*-texinfo-*-
+@c %**start of header
+@setfilename gofe.info
+@settitle Gofe
+@c %**end of header
+
+@setchapternewpage odd
+
+@ifinfo
+This is a short example of a complete Texinfo file.
+
+Copyright @copyright{} 1999 Ingo Ruhnke @email{grumbel@@gmx.de}.
+@end ifinfo
+
+@titlepage
+@sp 10
+@comment The title is printed in a large font.
+@title Gofe
+@subtitle GNU's Obtuse Front End
+@author by Ingo Ruhnke @email{grumbel@@gmx.de}
+
+@c The following two commands start the copyright page.
+@page
+@vskip 0pt plus 1filll
+Copyright @copyright{} 1999 Ingo Ruhnke @email{grumbel@@gmx.de}.
+@end titlepage
+
+@node    Top,       Introduction,   (dir)
+@comment node-name, next,          previous, up
+
+@c thistitle
+
+@menu
+* Introduction::    The first chapter is the
+                     only chapter in this sample.
+* Concept Index::    This index has two entries.
+@end menu
+
+@node    Introduction, Concept Index, Top,      Top
+@comment node-name,     next,          previous, up
+@chapter Introduction
+@cindex Sample index entry
+
+Gofe is a simple front end for command line programms like tfmx-play,
+mpg123 or xanim.
+
+It provides:
+
+@enumerate
+@item an easy to use interface
+@item a more or less nice gtk interface
+@item shell scripts for tfmx-play, mpg123 and xanim
+@end enumerate
+
+The @code{makeinfo} and @code{texinfo-format-buffer}
+commands transform a Texinfo file such as this into
+an Info file; and @TeX{} typesets it for a printed
+manual.
+
+@node    Concept Index,    ,  Introduction, Top
+@comment node-name,    next,  previous,      up
+@unnumbered Concept Index
+
+@printindex cp
+
+@contents
+@bye

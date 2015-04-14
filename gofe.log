@@ -1,0 +1,140 @@
+This is TeX, Version 3.14159 (C version 6.1) (format=tex 97.3.17)  23 JAN 1999 20:17
+**/tmp/473/gofe.texi
+(/tmp/473/gofe.texi
+Babel <v3.6h> and hyphenation patterns for american, german, loaded.
+(/usr/lib/teTeX/texmf/tex/texinfo/texinfo.tex
+Loading texinfo package [Version 2.196]: Basics,
+\bindingoffset=\dimen16
+\normaloffset=\dimen17
+\pagewidth=\dimen18
+\pageheight=\dimen19
+\cornerlong=\dimen20
+\cornerthick=\dimen21
+\topandbottommargin=\dimen22
+\outerhsize=\dimen23
+\outervsize=\dimen24
+\headlinebox=\box16
+\footlinebox=\box17
+\margin=\insert252
+\EMsimple=\toks12
+\singlespaceskip=\skip18
+\groupinvalidhelp=\toks13
+\mil=\dimen25
+\exdentamount=\skip19
+\inmarginspacing=\skip20
+ fonts,
+\sffam=\fam8
+\fontdepth=\count26
+ page headings,
+\titlepagetopglue=\skip21
+\titlepagebottomglue=\skip22
+\evenheadline=\toks14
+\oddheadline=\toks15
+\evenfootline=\toks16
+\oddfootline=\toks17
+ tables,
+\tableindent=\dimen26
+\itemindent=\dimen27
+\itemmargin=\dimen28
+\itemmax=\dimen29
+\itemno=\count27
+\multitableparskip=\skip23
+\multitableparindent=\skip24
+\multitablecolspace=\dimen30
+\multitablelinespace=\skip25
+\colcount=\count28
+
+indexing,
+\initialskipamount=\skip26
+\secondaryindent=\skip27
+\partialpage=\box18
+\doublecolumnhsize=\dimen31
+ sectioning,
+\chapno=\count29
+\secno=\count30
+\subsecno=\count31
+\subsubsecno=\count32
+\appendixno=\count33
+\contentsfile=\write0
+\absseclevel=\count34
+\secbase=\count35
+\chapheadingskip=\skip28
+\secheadingskip=\skip29
+\subsecheadingskip=\skip30
+ toc printing,
+\contentsrightmargin=\skip31
+\shortappendixwidth=\dimen32
+\tocindent=\dimen33
+ environments,
+\dblarrowbox=\box19
+\longdblarrowbox=\box20
+\pushcharbox=\box21
+\bullbox=\box22
+\equivbox=\box23
+\errorbox=\box24
+\lispnarrowing=\skip32
+\envskipamount=\skip33
+\circthick=\dimen34
+\cartouter=\dimen35
+\cartinner=\dimen36
+\normbskip=\skip34
+\normpskip=\skip35
+\normlskip=\skip36
+\lskip=\skip37
+\rskip=\skip38
+ defuns,
+\defbodyindent=\skip39
+\defargsindent=\skip40
+\deftypemargin=\skip41
+\deflastargmargin=\skip42
+\parencount=\count36
+ cross reference,
+\auxfile=\write1
+\footnoteno=\count37
+
+and turning on texinfo input format.
+\defaultparindent=\dimen37
+) (gofe.aux)
+@cpindfile=@write2
+@fnindfile=@write3
+@vrindfile=@write4
+@tpindfile=@write5
+@kyindfile=@write6
+@pgindfile=@write7
+ [1] [2] Chapter1
+(Concept Index) [1] [2] (gofe.cps)
+Overfull \vbox (13.0pt too high) has occurred while \output is active
+\vbox(45.14322+1.75)x207.80492
+.\glue(\topskip) 34.26323
+.\hbox(9.87999+0.0)x207.80492, glue set 198.80493fill
+..\secrm S
+..\glue 0.0 plus 1.0fill
+.\kern 2.0
+.\penalty 10000
+.\glue(\parskip) 0.0
+.etc.
+
+
+Overfull \vbox (13.0pt too high) has occurred while \output is active
+\vbox(45.14322+1.75)x207.80492
+.\glue(\topskip) 34.26323
+.\hbox(9.87999+0.0)x207.80492, glue set 198.80493fill
+..\secrm S
+..\glue 0.0 plus 1.0fill
+.\kern 2.0
+.\penalty 10000
+.\glue(\parskip) 0.0
+.etc.
+
+ [3]
+[4] (gofe.toc) [-1] [-2] ) 
+Here is how much of TeX's memory you used:
+ 980 strings out of 12965
+ 9878 string characters out of 95059
+ 26429 words of memory out of 262141
+ 1907 multiletter control sequences out of 9500
+ 27642 words of font info for 95 fonts, out of 150000 for 255
+ 18 hyphenation exceptions out of 607
+ 13i,6n,10p,216b,222s stack positions out of 300i,40n,60p,3000b,4000s
+
+Output written on gofe.dvi (8 pages, 2852 bytes).

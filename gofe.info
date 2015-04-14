@@ -1,0 +1,55 @@
+This is Info file gofe.info, produced by Makeinfo version 1.67 from the
+input file gofe.texinfo.
+
+   This is a short example of a complete Texinfo file.
+
+   Copyright (C) 1999 Ingo Ruhnke <grumbel@gmx.de>.
+
+
+File: gofe.info,  Node: Top,  Next: Introduction,  Prev: (dir)
+
+* Menu:
+
+* Introduction::    The first chapter is the
+                     only chapter in this sample.
+* Concept Index::    This index has two entries.
+
+
+File: gofe.info,  Node: Introduction,  Next: Concept Index,  Prev: Top,  Up: Top
+
+Introduction
+************
+
+   Gofe is a simple front end for command line programms like tfmx-play,
+mpg123 or xanim.
+
+   It provides:
+
+  1. an easy to use interface
+
+  2. a more or less nice gtk interface
+
+  3. shell scripts for tfmx-play, mpg123 and xanim
+
+   The `makeinfo' and `texinfo-format-buffer' commands transform a
+Texinfo file such as this into an Info file; and TeX typesets it for a
+printed manual.
+
+
+File: gofe.info,  Node: Concept Index,  Prev: Introduction,  Up: Top
+
+Concept Index
+*************
+
+* Menu:
+
+* Sample index entry:                    Introduction.
+
+
+
+Tag Table:
+Node: Top207
+Node: Introduction427
+Node: Concept Index924
+
+End Tag Table
